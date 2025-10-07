@@ -1,0 +1,5 @@
+Training set size: 80
+Validation set size: 20
+Mean Squared Error for each fold: [0.653699513717002, 0.6986669980875616, 1.1152414798019996, 0.7386686853069264, 0.9759000719385937]
+Average MSE across all folds: 0.8364353497704167
+Mean Squared Error on the validation set: 0.6536995137170021

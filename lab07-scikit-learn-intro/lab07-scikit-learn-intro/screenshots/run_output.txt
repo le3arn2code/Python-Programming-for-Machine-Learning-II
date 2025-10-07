@@ -1,0 +1,17 @@
+Could not fetch California housing dataset (likely no internet). Using synthetic data instead.
+
+=== Head ===
+     MedInc  HouseAge  AveRooms  ...  Latitude  Longitude    target
+0 -0.426706 -1.538578 -0.711176  ... -0.321966   0.011746  1.913060
+1 -1.739256  1.285905  0.094443  ... -0.846444   0.221213  3.214178
+2  0.630320 -1.289863  1.687244  ... -0.334765   1.197834  3.339585
+3 -0.591808  0.431436  1.948788  ...  1.395271  -0.858418  2.637537
+4 -0.064075  0.312857  2.174959  ... -1.686154  -0.986483  3.105325
+
+[5 rows x 9 columns]
+
+Model Coefficients: [0.06633817 0.11896856 0.23953247 0.11552583 0.38729703 0.2670787
+ 0.13029284 0.30025409]
+Model Intercept: 2.503532386371478
+Mean Squared Error (MSE): 0.003524411734825451
+R-squared score: 0.9915537852700859

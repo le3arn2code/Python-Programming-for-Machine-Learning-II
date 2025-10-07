@@ -1,0 +1,5 @@
+Calculated model parameters (theta):
+[[4.21509616]
+ [2.77011339]]
+
+Mean Squared Error (MSE): 0.8065845639670534

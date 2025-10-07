@@ -1,0 +1,6 @@
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "/mnt/data/lab10-simple-neural-network/neural_network.py", line 1, in <module>
+    import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'

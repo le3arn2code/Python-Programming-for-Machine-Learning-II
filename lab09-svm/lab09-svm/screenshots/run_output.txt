@@ -1,0 +1,5 @@
+Baseline (linear kernel) Accuracy: 100.00%
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+Best Parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+Best Cross-validation Accuracy: 0.9833333333333334
+Model Accuracy after tuning: 96.67%
